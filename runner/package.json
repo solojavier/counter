@@ -1,0 +1,17 @@
+{
+  "name": "karma-through-grunt",
+  "version": "0.0.1",
+  "description": "karma+grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Cervantes",
+  "devDependencies": {
+    "karma-jasmine": "~0.1.5",
+    "karma-phantomjs-launcher": "~0.1.2",
+    "karma": "~0.10.9",
+    "grunt-karma": "~0.6.2",
+    "grunt-cli": "~0.1.13"
+  }
+}
